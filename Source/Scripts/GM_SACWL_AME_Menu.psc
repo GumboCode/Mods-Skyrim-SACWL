@@ -9,13 +9,18 @@ Scriptname GM_SACWL_AME_Menu extends ActiveMagicEffect
 ; Properties -----------------------------------------------------
 
 Actor               Property    _PLAYERREF          Auto
+{Set this to the player reference.}
 
-GlobalVariable      Property    _GLOBALVAR1_INDEX   Auto
+GlobalVariable      Property    _GLOBAL1_INDEX   Auto
+{The global that controls the magnitude through a spell effect index which uses conditions.}
 
 Message             Property    _MESSAGE1_MENU      Auto
+{The starting message box.}
 Message             Property    _MESSAGE2_MENU      Auto
+{The final message box.}
 
 Spell               Property    _SPELL1             Auto
+{The spell to apply directly to the player.}
 
 ; Arrays -----------------------------------------------------
 
@@ -102,7 +107,7 @@ Function Menu2(int a_button = 0)
 
     ; || Multiplier || Choose by how much to multiply the amount.
 
-    _GLOBALVAR1_INDEX.SetValue(_array1[a_button]) ;sets a global variable based on the value stored in the array
+    _GLOBAL1_INDEX.SetValue(_array1[a_button]) ;sets a global variable based on the value stored in the array
     _PLAYERREF.AddSpell(_SPELL1)
 
 EndFunction
