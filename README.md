@@ -1,5 +1,7 @@
 # Simple Add Carry Weight Lite
 
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/150550/150550-1747709619-42929311.jpeg" width="600">
+
 Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/150550
 
 This mod has no dependencies. For a more flexible MCM version of this mod, checkout Simple Add Carry Weight MCM: https://www.nexusmods.com/skyrimspecialedition/mods/149442
@@ -10,7 +12,12 @@ This mod simply allows you to add more carry weight to your current limit using 
 
 ## Features
 
-- Cast a spell to access a menu that lets you select an initial value to increase your weight by, 100, 1K, 10K, 100K, 1M. After you select a base amount, then you select by how much to multiply the amount up to 10 times.
+- Cast a spell to access a menu that lets you select an initial value to increase your weight by, 100, 1K, 10K, 100K, 1M.
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/150550/150550-1747707995-2010355284.jpeg" width="600">
+
+- After you select a base amount, then you select by how much to multiply the amount up to 10 times.
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/150550/150550-1747708002-756149559.jpeg" width="600">
+
 - Selecting the disable option will completely remove the effect from the player for easy clean up.
 
 <ins>Current limitations:</ins>
@@ -24,9 +31,9 @@ This mod simply allows you to add more carry weight to your current limit using 
 <ins>Manually install the files:</ins>
 
 1. Download the latest version: https://github.com/GumboCode/Mods-Skyrim-SACWL/releases/download/v1.0.0/Simple.Add.Carry.Weight.Lite.zip
-2. Extract the contents of the .zip file into Skyrim's Data directory. ( "Skyrim Special Edition\Data\" )
+2. Extract the contents of the .zip file into Skyrim's Data directory. "Skyrim Special Edition\Data\"
 
-The Skyrim Special Edition folder location depends on what platform you installed it from. For Steam its in the ( "Steam\steamapps\common\" ) folder.
+The Skyrim Special Edition folder location depends on what platform you installed it from. For Steam its in the "Steam\steamapps\common\" folder.
 
 <ins>Make sure it's working:</ins>
 
