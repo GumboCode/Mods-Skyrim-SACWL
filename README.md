@@ -1,6 +1,6 @@
 # Simple Add Carry Weight Lite 🧙‍♂️
 
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/150550/150550-1747709619-42929311.jpeg" width="600">
+[![VIDEO PREVIEW](https://staticdelivery.nexusmods.com/mods/1704/images/150550/150550-1747709619-42929311.jpeg)](https://www.youtube.com/watch?v=n2-KWgsnYSo)
 
 Mod Page: https://www.nexusmods.com/skyrimspecialedition/mods/150550
 
